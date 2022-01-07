@@ -47,10 +47,10 @@ Deepfake_detection_using_deep_learning
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
 
 ## 6. Contributors
-   1. [Abhijit Jadhav](https://www.linkedin.com/in/abhijitjadhav1998/)
-   2. [Jay Patel](https://www.linkedin.com/in/jay-patel-396408155/)
-   3. [Hitendra Patil](https://www.linkedin.com/in/hitendra-patil-95852613a/)
-   4. [Abhishek Patange](https://www.linkedin.com/in/abhishek-patange-691406155/)
+   1. [Mohammed Omerullah](https://www.linkedin.com/in/mohammed-omerullah-698510169/)
+   2. [Mohammed Tauseef Mohiuddin](https://www.linkedin.com/in/mtauseefm)
+   3. [Hyder Siddique](https://www.linkedin.com/in/md-hyder-775600169/)
+   4. [MD Azhar](https://www.linkedin.com/in/mohammad-azhar-405799165/)
    
    ***If you need any help regarding the please contact us. We will be happy to help***
 
