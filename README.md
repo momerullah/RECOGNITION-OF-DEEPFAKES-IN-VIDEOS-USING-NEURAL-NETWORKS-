@@ -1,11 +1,9 @@
 # Deepfake detection using Deep Learning (ResNext and LSTM)
 
-### Please reach out to me on [LinkedIn](https://www.linkedin.com/in/abhijitjadhav1998/) for Step by Step installation YouTube video links.
+### Please reach out to me on [LinkedIn](https://www.linkedin.com/in/mohammed-omerullah-698510169/)
 
 ## 1. Introduction
-This projects aims in detection of video deepfakes using deep learning techniques like ResNext and LSTM. We have achived deepfake detection by using transfer learning where the pretrained ResNext CNN is used to obtain a feature vector, further the LSTM layer is trained using the features. For more details follow the [documentaion](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Documentation).
-
-You can also watch [this Youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE) to get a better intuition about the project
+This projects aims in detection of video deepfakes using deep learning techniques like ResNext and LSTM. We have achived deepfake detection by using transfer learning where the pretrained ResNext CNN is used to obtain a feature vector, further the LSTM layer is trained using the features. 
 
 ## 2. Directory Structure
 For ease of understanding the project is structured in below format
@@ -28,14 +26,11 @@ Deepfake_detection_using_deep_learning
   <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/System%20Architecture.png" />
 </p>
 
-## 4. Demo 
-### You can watch the [youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE&t=823s) for demo
-
 <p align="center">
   <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" />
 </p>
 
-## 5. Our Results
+## 4. Our Results
 
 | Model Name | No of videos | No of Frames | Accuracy |
 |------------|--------------|--------------|----------|
@@ -46,7 +41,7 @@ Deepfake_detection_using_deep_learning
 |model_91_acc_80_frames_final_data.pt | 6000 | 80 | 91.49818 |
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
 
-## 6. Contributors
+## 5. Contributors
    1. [Mohammed Omerullah](https://www.linkedin.com/in/mohammed-omerullah-698510169/)
    2. [Mohammed Tauseef Mohiuddin](https://www.linkedin.com/in/mtauseefm)
    3. [Hyder Siddique](https://www.linkedin.com/in/md-hyder-775600169/)
@@ -54,7 +49,7 @@ Deepfake_detection_using_deep_learning
    
    ***If you need any help regarding the please contact us. We will be happy to help***
 
-## 7. License
+## 6. License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
